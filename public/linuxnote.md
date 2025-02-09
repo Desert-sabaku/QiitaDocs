@@ -1,12 +1,12 @@
 ---
 title: 【随時更新】Linux 勉強ノート
 tags:
-  - 'Linux'
-  - "勉強メモ"
-  - "shellscript"
+  - ShellScript
+  - Linux
+  - 勉強メモ
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-02-09T21:12:04+09:00'
+id: eeca565e601ccc6ffd99
 organization_url_name: null
 slide: false
 ignorePublish: false
