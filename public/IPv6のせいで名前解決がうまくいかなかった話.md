@@ -1,14 +1,14 @@
 ---
 title: IPv6のせいで名前解決がうまくいかなかった話
 tags:
-    - "ネットワーク"
-    - "IPv6"
-    - "DNS"
-    - "トラブルシューティング"
-    - "技術メモ"
+  - Network
+  - IPv6
+  - dns
+  - トラブルシューティング
+  - 技術メモ
 private: false
-updated_at: ""
-id: null
+updated_at: '2025-10-14T21:27:08+09:00'
+id: 824fd94150aa577a2e0e
 organization_url_name: null
 slide: false
 ignorePublish: false
