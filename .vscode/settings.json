@@ -5,7 +5,9 @@
         "extensionpack",
         "fdiagnostics",
         "Msys",
+        "qiita",
         "Wextra",
         "winget"
-    ]
+    ],
+    "markdown.validate.enabled": true
 }
